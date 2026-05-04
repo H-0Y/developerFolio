@@ -8,7 +8,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
-import MyProfilePic from "../../assets/images/profile_v1.jpg";
+import MyProfilePic from "../../assets/images/profile_v2.jpg";
 export default function Greeting() {
   const {isDark} = useContext(StyleContext);
   if (!greeting.displayGreeting) {
@@ -56,7 +56,7 @@ export default function Greeting() {
             <img 
               src={MyProfilePic} 
               alt="My Profile" 
-              style={{ width: "100%", borderRadius: "100px", boxShadow: "0px 0px 20px rgba(0,0,0,0.2)" }} 
+              style={{ width: "100%", borderRadius: "100px"}} 
             />
           </div>
           {/* <div className="greeting-image-div">
