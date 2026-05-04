@@ -8,7 +8,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
-
+import MyProfilePic from "../../assets/images/me1.jpg";
 export default function Greeting() {
   const {isDark} = useContext(StyleContext);
   if (!greeting.displayGreeting) {
@@ -53,6 +53,13 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
+            <img 
+              src={MyProfilePic} 
+              alt="My Profile" 
+              style={{ width: "100%", borderRadius: "10px", boxShadow: "0px 0px 20px rgba(0,0,0,0.2)" }} 
+            />
+          </div>
+          {/* <div className="greeting-image-div">
             {illustration.animated ? (
               <DisplayLottie animationData={landingPerson} />
             ) : (
@@ -61,7 +68,7 @@ export default function Greeting() {
                 src={require("../../assets/images/manOnTable.svg")}
               ></img>
             )}
-          </div>
+          </div> */}
         </div>
       </div>
     </Fade>
