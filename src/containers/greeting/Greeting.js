@@ -8,7 +8,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
-import MyProfilePic from "../../assets/images/me1.jpg";
+import MyProfilePic from "../../assets/images/profile_v1.jpg";
 export default function Greeting() {
   const {isDark} = useContext(StyleContext);
   if (!greeting.displayGreeting) {
