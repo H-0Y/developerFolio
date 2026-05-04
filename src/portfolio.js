@@ -24,9 +24,8 @@ const greeting = {
   title: "Hi all, I'm Lingyun Huang",
   subTitle: emoji(
     "I'm currently an Innovation Specialist and Computer Science Teacher at WLSA Shanghai, teaching AP CSA, CSP, and Cybersecurity. I have also coached students to outstanding results in national and international competitions, including USACO Platinum and NOIP Second Prize. Passionate about AI-driven curriculum innovation."
-    ),
-  resumeLink:
-  "", // Set to empty to hide the button
+  ),
+  resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -44,15 +43,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A PASSIONATE EDUCATOR WHO WANTS TO EXPLORE THE BOUNDARY OF EDU-TECH ",
+  subTitle:
+    "A PASSIONATE EDUCATOR WHO WANTS TO EXPLORE THE BOUNDARY OF EDU-TECH ",
   skills: [
     emoji(
       "⚡ Teaching Courses including: AP CSA, CSP, Cybersecurity, IG CS and USACO"
     ),
     emoji("⚡ The Empowerment of Students and Educators through AI"),
-    emoji(
-      "⚡ A Real-World Problem Solver Using Computer Technology. "
-    )
+    emoji("⚡ A Real-World Problem Solver Using Computer Technology. ")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -125,7 +123,7 @@ const educationInfo = {
       logo: require("./assets/images/162-1629527_gold-seal-northeastern-university-logo-hd-png-download.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2022 - June 2024",
-      desc: "Ranked top 1% in the program. Worked as TA for CS undergraude courses",
+      desc: "Ranked top 1% in the program. Worked as TA for CS undergraude courses"
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -136,7 +134,7 @@ const educationInfo = {
       logo: require("./assets/images/8388529-middle.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2018 - June 2022",
-      desc: "Undergraduate Students Scholarship (Top 10%). Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Undergraduate Students Scholarship (Top 10%). Took courses about Software Engineering, Web Security, Operating Systems, ..."
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -174,10 +172,7 @@ const workExperiences = {
       companylogo: require("./assets/images/WLSA.jpg"),
       date: "Aug 2025 – Present",
       desc: "Lead the full-English curriculum development for the high school Computer Science program, including AP CSA, CSP, and Cybersecurity. Working as an innovation specilist in Innovation Center, supporting the development of AI-focused school-based curriculum",
-      descBullets: [
-       
-        
-      ]
+      descBullets: []
     },
     {
       role: "Computer Science Teacher",
@@ -192,7 +187,6 @@ const workExperiences = {
       companylogo: require("./assets/images/HuaweiLogo.png"),
       date: "Jan 2024 – Aug 2024",
       desc: "Developed Java Spring projects to implement product business requirements, to provide relevant data for the internal chatbot. Revolutionized data processing methods by automating repetitive tasks, achieving a 90% reduction in overall processing time"
-
     }
   ]
 };
@@ -213,9 +207,10 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/CenterNet-Objects-as-Points-Feature.gif"),
-      projectName: "Improvement for Object Detection Model (Computer Vision of AI)",
-      projectDesc: "Proposed a more suitable calculation method of gaussian circle radius parameter in CenterNet, based on its network and features. Improved the accuracy of original model by 3.02% mAP, showed by the results of training on the Pascal VOC dataset, which is especially outstanding in the detection of small targets."
-      ,
+      projectName:
+        "Improvement for Object Detection Model (Computer Vision of AI)",
+      projectDesc:
+        "Proposed a more suitable calculation method of gaussian circle radius parameter in CenterNet, based on its network and features. Improved the accuracy of original model by 3.02% mAP, showed by the results of training on the Pascal VOC dataset, which is especially outstanding in the detection of small targets.",
       footerLink: [
         {
           name: "Visit Website",
@@ -223,7 +218,7 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
-    },
+    }
     // {
     //   image: require("./assets/images/nextuLogo.webp"),
     //   projectName: "Nextu",
@@ -369,7 +364,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  
+
   email_address: "huangly22740@gmail.com"
 };
 
