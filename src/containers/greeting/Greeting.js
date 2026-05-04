@@ -56,7 +56,7 @@ export default function Greeting() {
             <img 
               src={MyProfilePic} 
               alt="My Profile" 
-              style={{ width: "100%", borderRadius: "10px", boxShadow: "0px 0px 20px rgba(0,0,0,0.2)" }} 
+              style={{ width: "100%", borderRadius: "100px", boxShadow: "0px 0px 20px rgba(0,0,0,0.2)" }} 
             />
           </div>
           {/* <div className="greeting-image-div">
