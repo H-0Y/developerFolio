@@ -169,7 +169,7 @@ const workExperiences = {
     {
       role: "Computer Science Teacher",
       company: "WLSA Shanghai Academy",
-      companylogo: require("./assets/images/WLSA.jpg"),
+      companylogo: require("./assets/images/WLSA.png"),
       date: "Aug 2025 – Present",
       desc: "Lead the full-English curriculum development for the high school Computer Science program, including AP CSA, CSP, and Cybersecurity. Working as an innovation specilist in Innovation Center, supporting the development of AI-focused school-based curriculum",
       descBullets: []
@@ -365,7 +365,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
 
-  email_address: "huangly22740@gmail.com"
+  email_address: "huangly2274@gmail.com"
 };
 
 // Twitter Section
