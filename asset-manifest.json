@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.699532b1.css",
-    "main.js": "/developerFolio/static/js/main.06fd3165.js",
+    "main.js": "/developerFolio/static/js/main.9bd2fd31.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/developerFolio/static/js/769.bda0d7b7.chunk.js",
-    "static/media/me1.jpg": "/developerFolio/static/media/me1.4cd606c82f8790511ede.jpg",
+    "static/media/me1.png": "/developerFolio/static/media/me1.17d39a12de9a62d654dd.png",
+    "static/media/WLSA.png": "/developerFolio/static/media/WLSA.5fa06e18db292aa29760.png",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/8388529-middle.png": "/developerFolio/static/media/8388529-middle.90d7d7459ae236b08e27.png",
     "static/media/162-1629527_gold-seal-northeastern-university-logo-hd-png-download.png": "/developerFolio/static/media/162-1629527_gold-seal-northeastern-university-logo-hd-png-download.06a31ffa1ae1d2463204.png",
     "static/media/CenterNet-Objects-as-Points-Feature.gif": "/developerFolio/static/media/CenterNet-Objects-as-Points-Feature.5ffd80089f20e9de6af3.gif",
     "static/media/HuaweiLogo.png": "/developerFolio/static/media/HuaweiLogo.f9cc2429539e3c0897a8.png",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/WLSA.jpg": "/developerFolio/static/media/WLSA.39b1a33b5a2112c3b91c.jpg",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/googleAssistantLogo.webp": "/developerFolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
@@ -24,7 +24,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.699532b1.css.map": "/developerFolio/static/css/main.699532b1.css.map",
-    "main.06fd3165.js.map": "/developerFolio/static/js/main.06fd3165.js.map",
+    "main.9bd2fd31.js.map": "/developerFolio/static/js/main.9bd2fd31.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.699532b1.css",
-    "static/js/main.06fd3165.js"
+    "static/js/main.9bd2fd31.js"
   ]
 }
