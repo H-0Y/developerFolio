@@ -119,7 +119,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Northeastern University",
+      schoolName: "Northeastern University (USA)",
       logo: require("./assets/images/162-1629527_gold-seal-northeastern-university-logo-hd-png-download.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2022 - June 2024",
@@ -130,11 +130,11 @@ const educationInfo = {
       // ]
     },
     {
-      schoolName: "ShanghaiTech University",
+      schoolName: "ShanghaiTech University (CAS-affiliated)",
       logo: require("./assets/images/8388529-middle.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2018 - June 2022",
-      desc: "Undergraduate Students Scholarship (Top 10%). Took courses about Software Engineering, Web Security, Operating Systems, ..."
+      desc: "Undergraduate Students Scholarship (Top 10%). Ranking top 1,500 of the 2018 Sichuan National College Entrance Examination"
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -365,7 +365,8 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
 
-  email_address: "huangly2274@gmail.com"
+  email_address: "huangly2274@gmail.com",
+  
 };
 
 // Twitter Section
