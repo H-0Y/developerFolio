@@ -122,7 +122,7 @@ const educationInfo = {
       schoolName: "Northeastern University (USA)",
       logo: require("./assets/images/162-1629527_gold-seal-northeastern-university-logo-hd-png-download.png"),
       subHeader: "Master of Science in Computer Science",
-      duration: "September 2022 - June 2024",
+      duration: "September 2022 - Jan 2024",
       desc: "Ranked top 1% in the program. Worked as TA for CS undergraude courses"
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -170,7 +170,7 @@ const workExperiences = {
       role: "Computer Science Teacher",
       company: "WLSA Shanghai Academy",
       companylogo: require("./assets/images/WLSA.png"),
-      date: "Aug 2025 – Present",
+      date: "Aug 2026 – Present",
       desc: "Lead the full-English curriculum development for the high school Computer Science program, including AP CSA, CSP, and Cybersecurity. Working as an innovation specilist in Innovation Center, supporting the development of AI-focused school-based curriculum",
       descBullets: []
     },
@@ -178,11 +178,11 @@ const workExperiences = {
       role: "Computer Science Teacher",
       company: "Changwai Bilingual School",
       companylogo: require("./assets/images/CBS.jpg"),
-      date: "Aug 2024 – June 2025",
+      date: "Aug 2024 – July 2026",
       desc: "Responsible for teaching AP Computer Science A, Computer Science Principle, and IG Computer Science in English, with high student satisfaction. \n Coached students in NOI, USACO (U.S. High School Computer Olympiad), and has coached students to USACO Platinum."
     },
     {
-      role: "Software Engineer Intern",
+      role: "Software Engineer",
       company: "HuaWei",
       companylogo: require("./assets/images/HuaweiLogo.png"),
       date: "Jan 2024 – Aug 2024",
