@@ -365,8 +365,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
 
-  email_address: "huangly2274@gmail.com",
-  
+  email_address: "huangly2274@gmail.com"
 };
 
 // Twitter Section
